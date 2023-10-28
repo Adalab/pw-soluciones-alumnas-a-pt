@@ -1,0 +1,50 @@
+* {
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;}
+
+.contenedor {
+   list-style: none;
+   display: inline-block;
+   /* border: solid black 2px; */
+   list-style: none;
+}
+.caja {
+   display: inline-block;
+   margin: 12px;
+   margin-bottom: 50px;
+}
+.navegador {
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;}
+  .formulario {
+   margin: 10px 40px;
+  }
+
+  .contenedor2 {
+   margin: 20px
+  }
+
+  .arriba {
+   display: flex;
+  }
+  .cabecera {
+display: flex;
+ border: solid black 2px;
+ border-left-style: dashed;
+ border-right-style: dashed;
+ width: 120px;
+ justify-content: center;
+ }
+ .fila1 {
+      display: flex;
+    border: solid black 1px;
+    width: 120px;
+    justify-content: flex-start;
+    border-left-style: dashed;
+    border-right-style: dashed;
+ }
+
+ 
+ 
