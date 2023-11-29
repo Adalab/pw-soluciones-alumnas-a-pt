@@ -8,6 +8,7 @@
    display: inline-block;
    /* border: solid black 2px; */
    list-style: none;
+   gap: 12px;
 }
 .caja {
    display: inline-block;
